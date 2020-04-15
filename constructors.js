@@ -15,6 +15,10 @@
 */
 
 // Code here
+function CarFactory(make, model) {
+  this.make = make;
+  this.model = model;
+}
 
 ////////// PROBLEM 2 //////////
 
@@ -34,7 +38,9 @@ function Employee(name, email, hireDate) {
 */
 
 // Code here
-
+Employee('Bob', 'bob@gmail.com', '01-02-98') {
+  return Employee()
+}
 ////////// PROBLEM 3 //////////
 
 // Do not edit the code below.
